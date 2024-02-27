@@ -3,8 +3,8 @@
 # Our Group
 
 Our group is made of :
-Manon GARDIN
-Matias OTTENSEN
+Manon GARDIN ;
+Matias OTTENSEN ;
 Tiphaine KACHKACHI
 
 # Our dataset
